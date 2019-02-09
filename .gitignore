@@ -18,6 +18,5 @@ target/
 # Maven
 log/
 target/
-
-#Some new changes
-SomeFolder/
+#some new chages
+someFolder
